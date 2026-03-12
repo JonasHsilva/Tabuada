@@ -1,3 +1,4 @@
+#BAIXE NO BOTÃO DE DOWNLOAD                                               ================  ^_^   ===========        
 n = int(input('Digite um número: '))
 print(' ')
 print('===' * 8)
@@ -14,3 +15,4 @@ print('{} x {:2} = {:2}'.format(n, 9 , n*9))
 print('{} x {:2} = {:2}'.format(n, 10 , n*10))
 print(' ')
 print('===' * 8)
+# Obs.: DEPOIS DE BAIXADA PRESSIONAR F5
